@@ -1,0 +1,22 @@
+[
+  {
+    "model":"database.articles",
+    "pk":1,
+    "fields": {
+      "id_author": 1,
+      "path": "cinema/media/депп.docx",
+      "date": "2023-05-04",
+      "title": "Джонни депп мегахарош"
+    }
+  },
+  {
+    "model":"database.articles",
+    "pk":2,
+    "fields": {
+      "id_author": 2,
+      "path": "cinema/media/тарантино.docx",
+      "date": "2023-06-07",
+      "title": "Тарантино ебанулся"
+    }
+  }
+]
